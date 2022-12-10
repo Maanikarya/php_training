@@ -1,0 +1,16 @@
+* PHP is a data type.
+
+class ClassName{
+	var $var1 ;  // Data Member , Attributes 
+	var $var2 ; 
+	
+	
+	function Method_name(){ // Methods
+		Body of Method; 
+	}
+
+}
+
+
+/c/wamp64/bin/php/php5.6.31
+
